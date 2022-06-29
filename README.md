@@ -52,7 +52,12 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MH-Movies/redirect_Eva)</br>
+<details><summary>Deploy to Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/MH-Movies/redirect_Eva">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
